@@ -8,10 +8,9 @@ function borraCanvas(){
 
 }
 
-fondo = new Image()
-fondo.src = "img/fondo_responsive.png"
 
-x = canvaspp.random.randomize(10, 50)
+
+
 //FUNCIONES PRINCIPALES DE CANVASPP
 
 function logic(){
@@ -29,6 +28,6 @@ function graphic(){
     //Antes de dibujar :
     //Hay que refrescar el canvas con la función "borraCanvas"
     borraCanvas();
-    canvaspp.draw.drSprite(fondo, x, 0)
+
 
 }
