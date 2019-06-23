@@ -9,8 +9,8 @@
 <h3>Download</h3>
 
 First, you click "Clone or download" and "Download ZIP".<br>
-Then extract the file "Canvaspp-master".<br>
-Open the "Canvaspp + Template" folder.<br>
+Then extract the file "Canvaspp 0.3".<br>
+Open the "Canvaspp 0.3" folder.<br>
 And copy the "Canvaspp Project TEMPLATE".<br>
 Paste it on the desktop, and change the name of the folder to the name of your project.<br>
 Then open it with your favourite code editor (in my case Visual studio code).<br>
